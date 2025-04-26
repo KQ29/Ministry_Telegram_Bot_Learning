@@ -1,0 +1,381 @@
+{
+    "Python": {
+      "uz": {
+        "description": "Python — o‘rganish eng oson tillardan biri. U orqali siz chatbotlar, sun’iy intellekt, va hatto o‘yinlar yaratishingiz mumkin.",
+        "usage": "Veb ilovalar, mashina o‘rganish, avtomatlashtirish, data science.",
+        "projects": "Instagram, YouTube, NASA, ChatGPT",
+        "courses": [
+          {
+            "title": "W3Schools Python Tutorial",
+            "description": "Boshlovchilar uchun interaktiv Python misollar bilan darslik.",
+            "link": "https://www.w3schools.com/python/"
+          },
+          {
+            "title": "freeCodeCamp: Python to‘liq kurs",
+            "description": "Video kurs — Python asoslari va misollar.",
+            "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+          },
+          {
+            "title": "Sololearn: Python kirish darsi",
+            "description": "Qisqa darslar va testlar bilan interaktiv o‘rganish.",
+            "link": "https://www.sololearn.com/en/learn/courses/python-introduction"
+          }
+        ]
+      },
+      "ru": {
+        "description": "Python — один из самых простых и мощных языков. Подходит для ИИ, сайтов, автоматизации и даже игр.",
+        "usage": "Веб-разработка, машинное обучение, автоматизация, аналитика данных.",
+        "projects": "Instagram, YouTube, NASA, ChatGPT",
+        "courses": [
+          {
+            "title": "W3Schools: Учебник Python",
+            "description": "Простой текстовый курс Python с интерактивными примерами.",
+            "link": "https://www.w3schools.com/python/"
+          },
+          {
+            "title": "freeCodeCamp: Полный курс по Python",
+            "description": "Видеоурок по основам Python.",
+            "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+          },
+          {
+            "title": "Sololearn: Введение в Python",
+            "description": "Интерактивное обучение Python с тестами и заданиями.",
+            "link": "https://www.sololearn.com/en/learn/courses/python-introduction"
+          }
+        ]
+      },
+      "en": {
+        "description": "Python is one of the easiest and most powerful languages. With it, you can build chatbots, AI models, websites, and more.",
+        "usage": "Web development, machine learning, automation, data science.",
+        "projects": "Instagram, YouTube, NASA, ChatGPT",
+        "courses": [
+          {
+            "title": "W3Schools Python Tutorial",
+            "description": "Beginner-friendly tutorial with interactive examples to practice Python coding.",
+            "link": "https://www.w3schools.com/python/"
+          },
+          {
+            "title": "freeCodeCamp: Learn Python – Full Course for Beginners",
+            "description": "Comprehensive video course covering Python fundamentals.",
+            "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+          },
+          {
+            "title": "Sololearn: Introduction to Python",
+            "description": "Interactive course with bite-sized lessons and quizzes to learn Python basics.",
+            "link": "https://www.sololearn.com/en/learn/courses/python-introduction"
+          }
+        ]
+      }
+    },
+    "JavaScript": {
+      "uz": {
+        "description": "JavaScript yordamida veb-sahifalarga jon bag‘ishlanadi. U interfeyslar, animatsiyalar va interaktivlikning asosidir.",
+        "usage": "Frontend va backend dasturlash, mobil va veb ilovalar.",
+        "projects": "Facebook, Google Maps, Twitter, YouTube",
+        "courses": [
+          {
+            "title": "W3Schools JavaScript Tutorial",
+            "description": "Matnli darslik, \"Try it Yourself\" muharriri bilan JavaScript asoslari.",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "title": "Scrimba Interactive JavaScript Course",
+            "description": "140 dan ortiq kodlash vazifalari bilan 7 soatlik interaktiv kurs.",
+            "link": "https://scrimba.com/learn-javascript-c0v"
+          },
+          {
+            "title": "Khan Academy: Intro to JS – Drawing & Animation",
+            "description": "Rasm va animatsiyalar orqali JavaScript o‘rgatadigan qiziqarli kurs.",
+            "link": "https://www.youtube.com/playlist?list=PLSQl0a2vh4HBAX-Kn3meISe0mrS0aIvvL"
+          }
+        ]
+      },
+      "ru": {
+        "description": "JavaScript делает сайты живыми: кнопки, анимации, и интерактивные интерфейсы — всё на нём.",
+        "usage": "Фронтенд и бэкенд, мобильные и веб-приложения.",
+        "projects": "Facebook, Google Maps, Twitter, YouTube",
+        "courses": [
+          {
+            "title": "W3Schools JavaScript Tutorial",
+            "description": "Текстовый курс с интерактивным редактором \"Try it Yourself\".",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "title": "Scrimba Interactive JavaScript Course",
+            "description": "7-часовой интерактивный курс с 140+ заданиями.",
+            "link": "https://scrimba.com/learn-javascript-c0v"
+          },
+          {
+            "title": "Khan Academy: Intro to JS – Drawing & Animation",
+            "description": "Курс через рисование и анимации для изучения JS.",
+            "link": "https://www.youtube.com/playlist?list=PLSQl0a2vh4HBAX-Kn3meISe0mrS0aIvvL"
+          }
+        ]
+      },
+      "en": {
+        "description": "JavaScript brings websites to life — it powers buttons, animations, and full web apps you use daily.",
+        "usage": "Frontend & backend development, mobile and web applications.",
+        "projects": "Facebook, Google Maps, Twitter, YouTube",
+        "courses": [
+          {
+            "title": "W3Schools JavaScript Tutorial",
+            "description": "Comprehensive text-based tutorial covering JavaScript basics with interactive \"Try it Yourself\" code editor.",
+            "link": "https://www.w3schools.com/js/"
+          },
+          {
+            "title": "Scrimba Interactive JavaScript Course",
+            "description": "A 7-hour interactive course with over 140 coding challenges, ideal for beginners.",
+            "link": "https://scrimba.com/learn-javascript-c0v"
+          },
+          {
+            "title": "Khan Academy: Intro to JS – Drawing & Animation",
+            "description": "Engaging course teaching JavaScript through visual projects like drawings and animations.",
+            "link": "https://www.youtube.com/playlist?list=PLSQl0a2vh4HBAX-Kn3meISe0mrS0aIvvL"
+          }
+        ]
+      }
+    },
+    "Java": {
+      "uz": {
+        "description": "Java — kuchli va xavfsiz til bo‘lib, ko‘plab bank tizimlari va Android ilovalari shu bilan yaratilgan.",
+        "usage": "Mobil ilovalar (Android), katta biznes dasturlari, backend tizimlar.",
+        "projects": "LinkedIn, Amazon, Android Apps",
+        "courses": [
+          {
+            "title": "W3Schools Java Tutorial",
+            "description": "Java konseptlarini interaktiv kod muharriri bilan o‘rgatuvchi darslik.",
+            "link": "https://www.w3schools.com/java/"
+          },
+          {
+            "title": "freeCodeCamp: Learn Java – Full Course for Beginners",
+            "description": "Boshlang‘ich Java asoslarini qamrab olgan video kurs.",
+            "link": "https://www.youtube.com/watch?v=eIrMbAQSU34&ab_channel=ProgrammingwithMosh"
+          }
+        ]
+      },
+      "ru": {
+        "description": "Java — мощный и безопасный язык, который используют банки и Android-приложения по всему миру.",
+        "usage": "Мобильные приложения, крупные бизнес-системы, серверная часть.",
+        "projects": "LinkedIn, Amazon, Android Apps",
+        "courses": [
+          {
+            "title": "W3Schools Java Tutorial",
+            "description": "Текстовый курс по Java с интерактивными примерами.",
+            "link": "https://www.w3schools.com/java/"
+          },
+          {
+            "title": "freeCodeCamp: Learn Java – Full Course for Beginners",
+            "description": "Видео курс по основам Java для начинающих.",
+            "link": "https://www.youtube.com/watch?v=eIrMbAQSU34&ab_channel=ProgrammingwithMosh"
+          }
+        ]
+      },
+      "en": {
+        "description": "Java is a powerful and secure language, widely used in banks, enterprise systems, and Android development.",
+        "usage": "Android apps, enterprise software, backend services.",
+        "projects": "LinkedIn, Amazon, Android Apps",
+        "courses": [
+          {
+            "title": "W3Schools Java Tutorial",
+            "description": "Text-based tutorial introducing Java programming concepts with interactive code editor.",
+            "link": "https://www.w3schools.com/java/"
+          },
+          {
+            "title": "freeCodeCamp: Learn Java – Full Course for Beginners",
+            "description": "Video course covering Java basics, suitable for absolute beginners.",
+            "link": "https://www.youtube.com/watch?v=eIrMbAQSU34&ab_channel=ProgrammingwithMosh"
+          }
+        ]
+      }
+    },
+    "C++": {
+      "uz": {
+        "description": "C++ kuchli va tezkor til bo‘lib, ayniqsa o‘yinlar va tizim dasturlari uchun ishlatiladi.",
+        "usage": "O‘yin dvijoklari, ilova dasturlash, tizim dasturlash.",
+        "projects": "Adobe Photoshop, Microsoft Office, Unreal Engine",
+        "courses": [
+          {
+            "title": "W3Schools C++ Tutorial",
+            "description": "Boshlovchi uchun C++ asoslarini interaktiv misollar bilan o‘rgatuvchi darslik.",
+            "link": "https://www.w3schools.com/cpp/"
+          },
+          {
+            "title": "freeCodeCamp: C++ Tutorial for Beginners – Full Course",
+            "description": "C++ dasturlash asoslarini chuqur o‘rgatuvchi video kurs.",
+            "link": "https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org"
+          },
+          {
+            "title": "Sololearn: Introduction to C++",
+            "description": "Darslar va testlar yordamida C++ ni interaktiv o‘rganing.",
+            "link": "https://www.sololearn.com/learning/1073?ref=app"
+          }
+        ]
+      },
+      "ru": {
+        "description": "C++ — язык высокой производительности, идеально подходит для игр и системного программирования.",
+        "usage": "Игровые движки, системное ПО, приложения.",
+        "projects": "Adobe Photoshop, Microsoft Office, Unreal Engine",
+        "courses": [
+          {
+            "title": "W3Schools C++ Tutorial",
+            "description": "Курс для начинающих по основам C++ с интерактивными примерами.",
+            "link": "https://www.w3schools.com/cpp/"
+          },
+          {
+            "title": "freeCodeCamp: C++ Tutorial for Beginners – Full Course",
+            "description": "Подробный видеокурс по основам C++.",
+            "link": "https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org"
+          },
+          {
+            "title": "Sololearn: Introduction to C++",
+            "description": "Интерактивное обучение C++ с уроками и тестами.",
+            "link": "https://www.sololearn.com/learning/1073?ref=app"
+          }
+        ]
+      },
+      "en": {
+        "description": "C++ is a fast and powerful language, perfect for games and system-level programming.",
+        "usage": "Game engines, app development, system software.",
+        "projects": "Adobe Photoshop, Microsoft Office, Unreal Engine",
+        "courses": [
+          {
+            "title": "W3Schools C++ Tutorial",
+            "description": "Beginner-friendly tutorial covering C++ fundamentals with interactive examples.",
+            "link": "https://www.w3schools.com/cpp/"
+          },
+          {
+            "title": "freeCodeCamp: C++ Tutorial for Beginners – Full Course",
+            "description": "In-depth video course teaching C++ programming basics.",
+            "link": "https://www.youtube.com/watch?v=vLnPwxZdW4Y&ab_channel=freeCodeCamp.org"
+          },
+          {
+            "title": "Sololearn: Introduction to C++",
+            "description": "Interactive course with lessons and quizzes to learn C++ fundamentals.",
+            "link": "https://www.sololearn.com/learning/1073?ref=app"
+          }
+        ]
+      }
+    },
+    "C#": {
+      "uz": {
+        "description": "C# — Microsoft tomonidan yaratilgan zamonaviy til bo‘lib, veb va desktop ilovalar uchun ishlatiladi.",
+        "usage": "Veb xizmatlar, Unity o‘yinlari, korporativ tizimlar.",
+        "projects": "Skype, Unity Games, Microsoft Visual Studio",
+        "courses": [
+          {
+            "title": "W3Schools C# Tutorial",
+            "description": "C# konseptlarini interaktiv kod muharriri bilan o‘rgatuvchi darslik.",
+            "link": "https://www.w3schools.com/cs/index.php"
+          },
+          {
+            "title": "freeCodeCamp: C# Tutorial – Full Course for Beginners",
+            "description": "C# asoslarini qamrab olgan video kurs.",
+            "link": "https://www.youtube.com/watch?v=GhQdlIFylQ8&ab_channel=freeCodeCamp.org"
+          },
+          {
+            "title": "Microsoft Learn: C# Interactive Tutorials",
+            "description": "Rasmiy Microsoft darsliklari va interaktiv mashqlar.",
+            "link": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/"
+          }
+        ]
+      },
+      "ru": {
+        "description": "C# — современный язык от Microsoft. Используется для веба, игр и корпоративных решений.",
+        "usage": "Веб-сервисы, игры на Unity, бизнес-приложения.",
+        "projects": "Skype, Unity Games, Microsoft Visual Studio",
+        "courses": [
+          {
+            "title": "W3Schools C# Tutorial",
+            "description": "Текстовый курс по C# с интерактивным редактором.",
+            "link": "https://www.w3schools.com/cs/index.php"
+          },
+          {
+            "title": "freeCodeCamp: C# Tutorial – Full Course for Beginners",
+            "description": "Подробный видеокурс по основам C#.",
+            "link": "https://www.youtube.com/watch?v=GhQdlIFylQ8&ab_channel=freeCodeCamp.org"
+          },
+          {
+            "title": "Microsoft Learn: C# Interactive Tutorials",
+            "description": "Официальные учебники Microsoft с интерактивными упражнениями.",
+            "link": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/"
+          }
+        ]
+      },
+      "en": {
+        "description": "C# is a modern language by Microsoft, widely used in web services, games, and enterprise systems.",
+        "usage": "Web APIs, Unity games, enterprise apps.",
+        "projects": "Skype, Unity Games, Microsoft Visual Studio",
+        "courses": [
+          {
+            "title": "W3Schools C# Tutorial",
+            "description": "Text-based tutorial introducing C# programming concepts with interactive code editor.",
+            "link": "https://www.w3schools.com/cs/index.php"
+          },
+          {
+            "title": "freeCodeCamp: C# Tutorial – Full Course for Beginners",
+            "description": "Comprehensive video course covering C# basics.",
+            "link": "https://www.youtube.com/watch?v=GhQdlIFylQ8&ab_channel=freeCodeCamp.org"
+          },
+          {
+            "title": "Microsoft Learn: C# Interactive Tutorials", 
+            "description": "Official Microsoft tutorials with interactive coding exercises to learn C#.",
+            "link": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/"
+          }
+        ]
+      }
+    },
+    "Ruby": {
+      "uz": {
+        "description": "Ruby — oson, lekin kuchli. U tez web ilovalar yaratish uchun mashhur.",
+        "usage": "Veb saytlar, startup ilovalari, prototiplash.",
+        "projects": "GitHub, Airbnb, Shopify",
+        "courses": [
+          {
+            "title": "Codecademy: Learn Ruby",
+            "description": "Ruby asoslarini interaktiv darslarda o‘rganing.",
+            "link": "https://www.codecademy.com/learn/learn-ruby"
+          },
+          {
+            "title": "freeCodeCamp: Ruby Programming Language – Full Course",
+            "description": "Ruby asoslariga bag‘ishlangan to‘liq video kurs.",
+            "link": "https://www.youtube.com/watch?v=t_ispmWmdjY&ab_channel=freeCodeCamp.org"
+          }
+        ]
+      },
+      "ru": {
+        "description": "Ruby — простой и элегантный язык. Отлично подходит для быстрого создания веб-сайтов.",
+        "usage": "Сайты, стартапы, прототипы.",
+        "projects": "GitHub, Airbnb, Shopify",
+        "courses": [
+          {
+            "title": "Codecademy: Learn Ruby",
+            "description": "Интерактивное обучение основам Ruby.",
+            "link": "https://www.codecademy.com/learn/learn-ruby"
+          },
+          {
+            "title": "freeCodeCamp: Ruby Programming Language – Full Course",
+            "description": "Полный видеокурс по основам Ruby.",
+            "link": "https://www.youtube.com/watch?v=t_ispmWmdjY&ab_channel=freeCodeCamp.org"
+          }
+        ]
+      },
+      "en": {
+        "description": "Ruby is simple but powerful. Great for building web apps quickly and beautifully.",
+        "usage": "Websites, startup apps, rapid prototyping.",
+        "projects": "GitHub, Airbnb, Shopify",
+        "courses": [
+          {
+            "title": "Codecademy: Learn Ruby",
+            "description": "Interactive course teaching Ruby programming fundamentals.",
+            "link": "https://www.codecademy.com/learn/learn-ruby"
+          },
+          {
+            "title": "freeCodeCamp: Ruby Programming Language – Full Course",
+            "description": "Comprehensive video course covering Ruby basics.",
+            "link": "https://www.youtube.com/watch?v=t_ispmWmdjY&ab_channel=freeCodeCamp.org"
+          }
+        ]
+      }
+    }
+  }
+  

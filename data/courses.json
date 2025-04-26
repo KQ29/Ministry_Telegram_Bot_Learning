@@ -1,0 +1,49 @@
+{
+    "IT": {
+      "uz": [
+        {
+          "title": "Python asoslari (0 dan)",
+          "link": "https://youtu.be/python-uzbek",
+          "description": "Boshlovchilar uchun dasturlash kursi (YouTube)"
+        }
+      ],
+      "en": [
+        {
+          "title": "Python for Beginners",
+          "link": "https://youtu.be/python-english",
+          "description": "Intro to Python for absolute beginners"
+        }
+      ],
+      "ru": [
+        {
+          "title": "Python с нуля",
+          "link": "https://youtu.be/python-russian",
+          "description": "Простой курс для начинающих на русском языке"
+        }
+      ]
+    },
+    "English": {
+      "uz": [
+        {
+          "title": "Ingliz tili: Boshlang‘ich daraja",
+          "link": "https://youtu.be/english-uzbek",
+          "description": "Kunlik iboralar va grammatika"
+        }
+      ],
+      "en": [
+        {
+          "title": "Learn English from Zero",
+          "link": "https://youtu.be/english-english",
+          "description": "Daily conversations and speaking tips"
+        }
+      ],
+      "ru": [
+        {
+          "title": "Английский для начинающих",
+          "link": "https://youtu.be/english-russian",
+          "description": "Базовая грамматика и разговорные фразы"
+        }
+      ]
+    }
+  }
+  

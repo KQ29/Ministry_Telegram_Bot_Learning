@@ -8,7 +8,7 @@ class SpamMiddleware(BaseMiddleware):
     """
     Middleware to prevent users from sending more than `max_messages` in `window_seconds`.
     """
-    def __init__(self, max_messages: int = 3, window_seconds: float = 10.0):
+    def __init__(self, max_messages: int = 10, window_seconds: float = 10.0):
         super().__init__()
         self.max_messages = max_messages
         self.window_seconds = window_seconds

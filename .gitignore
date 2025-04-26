@@ -13,3 +13,5 @@ middlewares/__pycache__
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+eb-logs.txt
